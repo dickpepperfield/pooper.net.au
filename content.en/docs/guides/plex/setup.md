@@ -18,7 +18,7 @@ In this guide, we'll run through the first steps to take when accessing Plex.
 
 This is a good one to follow too. 
 
-[READ HERE!](https://imgur.com/a/plexplainers-v2-0-QAUFN13)
+[READ HERE!](/images/la9AMzt.jpeg)
 
 Then you should go here, and disable all of the online media sources, trust me.
 
@@ -67,5 +67,5 @@ I'm attaching a few images that contain steps for a few clients, to enable maxim
 # Audiobooks
 
 Read this guide for Audiobook setup, make sure to let me know to invite you to the library.
-[Audiobook setup](/docs/pages/plex/audiobooks/)
+[Audiobook setup](/docs/plex-guides/audiobooks/)
 

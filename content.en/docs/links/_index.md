@@ -1,4 +1,4 @@
 ---
-weight: 1
+title: Links
 bookFlatSection: true
 ---

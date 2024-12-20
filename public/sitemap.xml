@@ -2,42 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/pages/</loc>
+    <loc>http://localhost:1313/docs/guides/plex/setup/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/pages/plex-guides/setup/</loc>
+    <loc>http://localhost:1313/docs/guides/plex/audiobooks/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/pages/plex-guides/</loc>
+    <loc>http://localhost:1313/docs/guides/plex/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/pages/plex-guides/audiobooks/</loc>
+    <loc>http://localhost:1313/docs/guides/linux/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/pages/linux-guides/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/docs/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/pages/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/pages/linux-guides/adding-a-new-drive/</loc>
+    <loc>http://localhost:1313/docs/guides/linux/adding-a-new-drive/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/audiobooks/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-20T13:47:29+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/pages/linux-guides/create-swap/</loc>
+    <loc>http://localhost:1313/docs/guides/linux/create-swap/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/pages/linux-guides/extend-a-disk/</loc>
+    <loc>http://localhost:1313/docs/guides/linux/extend-a-disk/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/guide/</loc>
@@ -46,11 +43,11 @@
     <loc>http://localhost:1313/categories/guide/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/pages/linux-guides/htaccess/</loc>
+    <loc>http://localhost:1313/docs/guides/linux/htaccess/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/blog/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-20T13:47:29+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
@@ -62,12 +59,16 @@
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-20T13:47:29+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-18T11:41:57+11:00</lastmod>
+    <lastmod>2024-12-20T13:58:59+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/info/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/links/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-18T11:41:57+11:00</lastmod>
+    <lastmod>2024-12-20T13:47:29+11:00</lastmod>
   </url>
 </urlset>
