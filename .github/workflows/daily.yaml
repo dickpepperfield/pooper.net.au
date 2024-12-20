@@ -1,10 +1,14 @@
-name: Deploy Hugo Site
+name: Daily Build
 
 on:
+  # Keep existing triggers
   push:
     branches:
       - main
   workflow_dispatch:
+  # Add scheduled trigger for 3pm daily
+  schedule:
+    - cron: '0 15 * * *'
 
 permissions:
   contents: read
