@@ -14,7 +14,7 @@ categories: guide
 
 In this guide, we'll run through the first steps to take when accessing Plex.
 
-# Updates 2024: 
+# Updates 2024
 
 This is a good one to follow too. 
 
