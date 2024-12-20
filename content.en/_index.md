@@ -12,9 +12,9 @@ cam
 
 ---
 
-Quick links
+<!-- Quick links
 
 {{<button relref="/docs/pages/plex-guides">}}Plex guides{{</button>}}
 {{<button relref="/docs/pages/linux-guides">}}Linux guides{{</button>}}
 {{<button relref="/docs/pages/projects">}}Projects{{</button>}}
-
+ -->
