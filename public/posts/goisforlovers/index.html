@@ -17,7 +17,7 @@ provide more details.">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/posts/goisforlovers/">
-  <meta property="og:site_name" content="Hugo Book">
+  <meta property="og:site_name" content="pooper net">
   <meta property="og:title" content="(Hu)go Template Primer">
   <meta property="og:description" content="Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates. The Go docs provide more details.">
@@ -25,19 +25,25 @@ This document is a brief primer on using Go templates. The Go docs provide more 
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2014-04-02T00:00:00+00:00">
-    <meta property="article:modified_time" content="2014-04-02T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-12-18T11:41:57+11:00">
     <meta property="article:tag" content="Go">
     <meta property="article:tag" content="Golang">
     <meta property="article:tag" content="Templates">
     <meta property="article:tag" content="Themes">
     <meta property="article:tag" content="Development">
-<title>(Hu)go Template Primer | Hugo Book</title>
+<title>(Hu)go Template Primer | pooper net</title>
 <link rel="icon" href="/favicon.png" >
+
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+<link rel="manifest" href="/favicon/site.webmanifest">
+
 <link rel="manifest" href="/manifest.json">
 <link rel="canonical" href="http://localhost:1313/posts/goisforlovers/">
 <link rel="stylesheet" href="/book.min.6c8b9d2a1fc95075ed7da46ca81060b39add8fff6741ac51259f768929281e2c.css" integrity="sha256-bIudKh/JUHXtfaRsqBBgs5rdj/9nQaxRJZ92iSkoHiw=" crossorigin="anonymous">
   <script defer src="/fuse.min.js"></script>
-  <script defer src="/en.search.min.53075468d348f10fb524e5c6bc0f7e55ccb2f44a9d0101a3c4ef84fd90a0df80.js" integrity="sha256-UwdUaNNI8Q&#43;1JOXGvA9&#43;Vcyy9EqdAQGjxO&#43;E/ZCg34A=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.f27d3f0a141bdb9b7f89618230f518dec7fe26ec3f9f77503e988d0415e977ab.js" integrity="sha256-8n0/ChQb25t/iWGCMPUY3sf&#43;Juw/n3dQPpiNBBXpd6s=" crossorigin="anonymous"></script>
 
   <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
 <!--
@@ -55,7 +61,7 @@ https://github.com/alex-shpak/hugo-book
         
   <nav>
 <h2 class="book-brand">
-  <a class="flex align-center" href="/"><span>Hugo Book</span>
+  <a class="flex align-center" href="/"><img src="/poop.svg" alt="Logo" class="book-icon" /><span>pooper net</span>
   </a>
 </h2>
 
@@ -198,115 +204,6 @@ https://github.com/alex-shpak/hugo-book
         </li>
       
     
-      
-        <li class="book-section-flat" >
-          
-  
-  
-
-  
-    <span>Shortcodes</span>
-  
-
-          
-  <ul>
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/shortcodes/buttons/" class="">Buttons</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/shortcodes/columns/" class="">Columns</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/shortcodes/details/" class="">Details</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/shortcodes/hints/" class="">Hints</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/shortcodes/mermaid/" class="">Mermaid</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/shortcodes/tabs/" class="">Tabs</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/docs/shortcodes/katex/" class="">KaTeX</a>
-  
-
-        </li>
-      
-    
-  </ul>
-
-        </li>
-      
-    
   </ul>
 
 
@@ -323,19 +220,25 @@ https://github.com/alex-shpak/hugo-book
   
   <li>
     <a href="/posts/"  >
-        Blog
+        Posts
       </a>
   </li>
   
   <li>
-    <a href="https://github.com/alex-shpak/hugo-book"  target="_blank" rel="noopener">
-        Github
+    <a href="https://bsky.app/profile/pooper.net.au"  target="_blank" rel="noopener">
+        BlueSky
       </a>
   </li>
   
   <li>
-    <a href="https://themes.gohugo.io/themes/hugo-book/"  target="_blank" rel="noopener">
-        Hugo Themes
+    <a href="https://github.com/dickpepperfield"  target="_blank" rel="noopener">
+        GitHub
+      </a>
+  </li>
+  
+  <li>
+    <a href="https://www.linkedin.com/in/cjhallau"  target="_blank" rel="noopener">
+        Linkedin
       </a>
   </li>
   
@@ -740,13 +643,6 @@ so, such as in this example:</p>
 
 
 
-  <div>
-    <a class="flex align-center" href="https://github.com/alex-shpak/hugo-book/edit/main/exampleSite/content.en/posts/goisforlovers.md" target="_blank" rel="noopener">
-      <img src="/svg/edit.svg" class="book-icon" alt="" />
-      <span>Edit this page</span>
-    </a>
-  </div>
-
 
 </div>
 
@@ -760,10 +656,6 @@ so, such as in this example:</p>
       </footer>
 
       
-  
-  <div class="book-comments">
-
-</div>
   
  
 

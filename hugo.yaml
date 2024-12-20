@@ -1,0 +1,48 @@
+baseURL: https://pooper.net.au/
+title: pooper net
+
+disablePathToLower: true
+enableGitInfo: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+
+languages:
+  en:
+    languageName: English
+    contentDir: content.en
+    weight: 1
+
+menu:
+  before: []
+      
+  after:
+    - name: "GitHub"
+      url: "https://github.com/dickpepperfield"
+      weight: 10
+    - name: BlueSky
+      url: https://bsky.app/profile/pooper.net.au
+      weight: 10
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/cjhallau"
+      weight: 50
+
+params:
+  BookTheme: "dark"
+  BookToC: true
+  # BookFavicon: "favicon.png"
+  BookLogo: /poop.svg
+  BookSection: docs
+  #BookRepo: https://github.com/dickpepperfield/pooper.net.au
+  # BookCommitPath: commit
+  #BookEditPath: /
+  BookDateFormat: "January 2, 2006"
+  BookSearch: true
+  BookComments: false
+  BookPortableLinks: true
+  BookServiceWorker: true
+  BookTranslatedOnly: true
